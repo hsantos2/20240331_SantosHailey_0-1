@@ -1,7 +1,7 @@
 AllowedVehiclesList = ["Ford F-150","Chevrolet Silverado","Tesla CyberTruck","Toyota Tundra","Nissan Titan"]
 
 #Onload
-onLoad = input("Press enter START to start the program.\n")
+onLoad = input("Please enter START to start the program.\n")
 if onLoad == "START":
     # Menu and User input
     print("********************************\nAutoCountry Vehicle Finder v0.1\n********************************")
